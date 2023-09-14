@@ -5,4 +5,4 @@ const { withPerformanceTracking } = require('@scalewright/performance-tracking')
 const test = withPerformanceTracking(base);
 
 module.exports = require('@playwright/test');
-module.export.test = test;
+module.exports.test = test;
