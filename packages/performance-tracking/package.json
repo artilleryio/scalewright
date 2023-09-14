@@ -1,6 +1,6 @@
 {
   "name": "@scalewright/performance-tracking",
-  "version": "1.37.1-2",
+  "version": "1.37.1-3",
   "repository": "github:scalewright/scalewright",
   "module": "index.mjs",
   "engines": {
