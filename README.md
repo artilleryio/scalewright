@@ -106,7 +106,9 @@ _Coming soon_ - [get notified for updates](#get-notified-for-updates)
 
 # Get notified for updates
 
-The best way to be notified is to Watch releases and discussions on the repo:
+The best way to be notified is to **Watch** releases and discussions on our GitHub repo (https://github.com/scalewright/scalewright)
+
+Hit Watch, then customize to only see new releases and announcements:
 
 ![Watch the repo](./repo-watch.gif)
 
