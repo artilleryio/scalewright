@@ -9,7 +9,7 @@ This project aims to provide a number of features which are useful to teams that
 * **Drop-in, no code changes required.** Scalewright is designed to just work and require minimal extra configuration.
 * **Parallelize at scale**. Parallelize and run test suites faster on AWS Lambda.  [_Coming soon_](#get-notified-for-updates)
 
-**Note:** This project is brought to you by [Artillery](https://www.artillery.io). This project **is not affiliated with the Playwright team or Microsoft**. We're sharing something we built with other power users of Playwright to help them do even more with Playwright.
+ℹ️ **Disclaimer:** Scalewright is an [Artillery](https://www.artillery.io) project. Scalewright **is NOT affiliated with or endorsed by the Playwright team or Microsoft**. We're sharing something we built with other power users of Playwright to help them do even more with Playwright.
 
 # Performance Testing
 
