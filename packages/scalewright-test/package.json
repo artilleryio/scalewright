@@ -1,6 +1,6 @@
 {
   "name": "@scalewright/test",
-  "version": "1.37.1",
+  "version": "1.37.1-0",
   "repository": "github:scalewright/scalewright",
   "module": "index.mjs",
   "engines": {
