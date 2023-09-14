@@ -8,7 +8,7 @@
   },
   "keywords": ["playwright", "scalewright"],
   "scripts": {
-    "prepublishOnly": "cp ../../repo-watch.gif . && cp ../../scalewright-header.png . && cp ../../README.md ."
+    "prepublishOnly": "cp ../../repo-watch.gif . && cp ../../scalewright-header.png . && cp ../../html-report.png . && cp ../../README.md ."
   },
   "author": {
     "name": "Hassy Veldstra",

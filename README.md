@@ -92,6 +92,13 @@ test('has title', async ({ page }) => {
 
 This will need to be done in every file that uses Playwright Test Runner.
 
+## Viewing Performance Metrics
+
+Once enabled all performance metrics will be tracked automatically and added as [custom annotations](https://playwright.dev/docs/test-annotations#custom-annotations) on each test. Those annotations can be viewed in the built-in HTML reporter:
+
+![Performance metrics in HTML reporter](./html-report.png)
+
+
 # Monitoring & Observability
 
 This connects your Playwright tests to external monitoring/observability systems (such as Datadog, CloudWatch, Honeycomb or any other provider that supports StasD or OpenTelemetry protocols). Test metrics, traces, and events can then be sent over for visibility and analysis.
@@ -103,6 +110,10 @@ _Coming soon_ - [get notified for updates](#get-notified-for-updates)
 Scale out your Playwright test suite on AWS Lambda for a massive speed up and reduction in running time. This requires no DevOps or infra work - a serverless "grid" is created on the fly in your own AWS account. This is orders of magnitude cheaper than cloud hosted platforms for running large Playwright tests.
 
 _Coming soon_ - [get notified for updates](#get-notified-for-updates)
+
+# Ideas or Feedback?
+
+Post a message on [Github Discussions board](https://github.com/scalewright/scalewright/discussions). We'd love to hear from you.
 
 # Get notified for updates
 
