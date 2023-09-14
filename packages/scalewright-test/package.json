@@ -1,0 +1,26 @@
+{
+  "name": "@scalewright/test",
+  "version": "1.37.1",
+  "repository": "github:scalewright/scalewright",
+  "module": "index.mjs",
+  "engines": {
+    "node": ">=18"
+  },
+  "author": {
+    "name": "Hassy Veldstra",
+    "email": "hveldstra@artillery.io"
+  },
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "import": "./index.mjs",
+      "require": "./index.js",
+      "default": "./index.js"
+    }
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@scalewright/performance-tracking": "*",
+    "@playwright/test": "1.37.1"
+  }
+}
