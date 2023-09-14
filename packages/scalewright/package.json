@@ -1,0 +1,27 @@
+{
+  "name": "scalewright",
+  "version": "1.37.1-1",
+  "repository": "github:scalewright/scalewright",
+  "module": "index.mjs",
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": ["playwright", "scalewright"],
+  "scripts": {
+    "prepublishOnly": "cp ../../repo-watch.gif . && cp ../../scalewright-header.png . && cp ../../README.md ."
+  },
+  "author": {
+    "name": "Hassy Veldstra",
+    "email": "hveldstra@artillery.io"
+  },
+  "exports": {
+    ".": {
+      "import": "./index.mjs",
+      "require": "./index.js",
+      "default": "./index.js"
+    }
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+  }
+}

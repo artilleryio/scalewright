@@ -1,0 +1,24 @@
+{
+  "name": "scalewright",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "prettier": {
+    "semi": true,
+    "singleQuote": true,
+    "useTabs": false,
+    "trailingComma": "none",
+    "overrides": [
+      {
+        "files": "*.(yaml|yml)",
+        "options": {
+          "singleQuote": false
+        }
+      }
+    ]
+  },
+  "devDependencies": {
+    "prettier": "^3.0.3"
+  }
+}
