@@ -1,6 +1,6 @@
-![Scalewright](./scalewright-header.png)
+⚠️ This package is no longer maintained. Please use `@artilleryio/playwright-reporter` instead - https://www.artillery.io/blog/announcing-playwright-test-reporter
 
-# Scalewright
+---
 
 This project aims to provide a number of features which are useful to teams that have large Playwright test suites and run Playwright at scale.
 
